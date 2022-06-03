@@ -1,0 +1,1 @@
+docker run --publish 8000:8000 -v $1:/www swserver 
